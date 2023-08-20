@@ -19,7 +19,7 @@ public class PositonCategories {
     RequestSpecification reqSpec;
 
     String PsId;
-
+    int osman = 5;
     String PsName;
 
 
